@@ -28,8 +28,8 @@ This project was built to practice Linux commands, shell scripting, and automati
 ## 🚀 Usage
 
 ### ▶️ Run the script:
-```bash
-./file-analyzer-tool.sh <directory>```
+
+`./file-analyzer-tool.sh <directory>`
    
 ---
 
@@ -68,7 +68,7 @@ README.md
 
 Make sure the script has execute permission:
 
-```chmod +x file-analyzer-tool.sh```
+`chmod +x file-analyzer-tool.sh`
 
 ---
 
