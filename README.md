@@ -43,6 +43,7 @@ Total files: 10
 Text files: 3
 Shell scripts:
 test.sh
+---
 
 ## 🧠Concepts Used
 - Variables and environment variables
@@ -52,20 +53,24 @@ test.sh
 - File handling
 - Pipes and redirection
 - Bash scripting fundamentals
+---
 
 ## 📁Project Structure
 file-analyzer-tool.sh
 README.md
+---
 
 ## ⚠️ Notes
 
 Make sure the script has execute permission:
 
 ```chmod +x file-analyzer-tool.sh```
+---
 
 ## 👨‍💻Author
 
 Harshana Karunarathne
+---
 
 ## ⭐Acknowledgment
 
