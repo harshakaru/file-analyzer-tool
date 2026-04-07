@@ -34,6 +34,8 @@ This project was built to practice Linux commands, shell scripting, and automati
 ---
 
 ## 📊Example Output
+
+```
 ==== SYSTEM INFO ====
 User: kali
 Current Dir: /home/kali
@@ -44,6 +46,8 @@ Total files: 10
 Text files: 3
 Shell scripts:
 test.sh
+
+```
 
 ---
 
@@ -59,9 +63,12 @@ test.sh
 ---
 
 ## 📁Project Structure
+
+```
 file-analyzer-tool.sh
 README.md
 
+```
 ---
 
 ## ⚠️ Notes
