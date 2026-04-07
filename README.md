@@ -30,6 +30,7 @@ This project was built to practice Linux commands, shell scripting, and automati
 ### ▶️ Run the script:
 ```bash
 ./file-analyzer-tool.sh <directory>```
+   
 ---
 
 ## 📊Example Output
@@ -43,6 +44,7 @@ Total files: 10
 Text files: 3
 Shell scripts:
 test.sh
+
 ---
 
 ## 🧠Concepts Used
@@ -53,11 +55,13 @@ test.sh
 - File handling
 - Pipes and redirection
 - Bash scripting fundamentals
+
 ---
 
 ## 📁Project Structure
 file-analyzer-tool.sh
 README.md
+
 ---
 
 ## ⚠️ Notes
@@ -65,11 +69,13 @@ README.md
 Make sure the script has execute permission:
 
 ```chmod +x file-analyzer-tool.sh```
+
 ---
 
 ## 👨‍💻Author
 
 Harshana Karunarathne
+
 ---
 
 ## ⭐Acknowledgment
