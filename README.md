@@ -22,3 +22,34 @@ This project was built to practice Linux commands, shell scripting, and automati
 
 ```bash
 ./file-analyzer-tool.sh <directory>
+
+## Example:
+
+./file-analyzer-tool.sh /home/kali
+
+## 🧪Example Output
+==== SYSTEM INFO ====
+User: kali
+Current Dir: /home/kali
+Shell: /bin/bash
+
+==== ANALYSIS ====
+Total files: 10
+Text files: 3
+Shell scripts:
+test.sh
+
+## 🧠Concepts Used
+- Variables and environment variables
+- Conditional statements (if)
+- Loops (for)
+- Case statements
+- File handling
+- Pipes and redirection
+- Bash scripting basics
+
+---
+##👨‍💻 Author
+
+Harshana Karunarathne 
+
